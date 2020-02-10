@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1514480804 source:c:\users\florent\desktop\projet bibliotheque\main.c
+	"projet.h"
+
+1514480804 c:\users\florent\desktop\projet bibliotheque\projet.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1514480804 source:c:\users\florent\desktop\projet bibliotheque\projet.c
+	"projet.h"
+
+1514469200 source:c:\users\florent\desktop\cours\iut\période 2\structures données\projet bibliotheque\main.c
+	"projet.h"
+
+1514477572 c:\users\florent\desktop\cours\iut\période 2\structures données\projet bibliotheque\projet.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1516210134 source:c:\users\florent\desktop\cours\iut\période 2\structures données\projet bibliotheque\projet.c
+	"projet.h"
+
